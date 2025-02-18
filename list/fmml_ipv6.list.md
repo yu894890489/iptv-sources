@@ -1,4 +1,4 @@
-# List for **fanmingming/live ipv6**
+# List for **fanmingming/live ipv6**(Rollback)
 
 > M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Tue Feb 18 2025 12:13:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 18 2025 14:01:29 GMT+0000 (Coordinated Universal Time)**
