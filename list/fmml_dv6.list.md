@@ -1,6 +1,6 @@
-# List for **YueChan-Live IPTV**
+# List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
+> M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
