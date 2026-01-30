@@ -1330,4 +1330,4 @@
 | 1324 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/70b5ad6ff59705957267010cfef48103f103a460f450474547b3b76da85d491b.m3u8> |
 | 1325 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.ctv> |
 
-Updated at **Fri Jan 30 2026 06:31:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 30 2026 08:22:08 GMT+0000 (Coordinated Universal Time)**
